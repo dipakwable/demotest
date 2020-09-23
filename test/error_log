@@ -1,0 +1,37 @@
+[22-Jun-2020 08:50:48 UTC] PHP Fatal error:  Assignments can only happen to writable values in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/application/controllers/Api.php on line 319
+[23-Jun-2020 05:21:30 UTC] PHP Fatal error:  Cannot use [] for reading in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/application/controllers/Api.php on line 210
+[24-Jun-2020 04:27:49 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/application/controllers/Api.php on line 433
+[24-Jun-2020 04:33:45 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/application/controllers/Api.php on line 441
+[24-Jun-2020 04:36:11 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/application/controllers/Api.php on line 442
+[24-Jun-2020 05:06:01 UTC] PHP Fatal error:  Cannot redeclare Api::app_user_profile() in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/application/controllers/Api.php on line 494
+[27-Jun-2020 04:51:29 UTC] PHP Fatal error:  Cannot redeclare Api::get_productby_brand() in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/application/controllers/Api.php on line 625
+[27-Jun-2020 04:53:55 UTC] PHP Fatal error:  Cannot redeclare Api::get_productby_brand() in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/application/controllers/Api.php on line 643
+[27-Jun-2020 04:54:13 UTC] PHP Fatal error:  Cannot redeclare Api::get_productby_brand() in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/application/controllers/Api.php on line 643
+[27-Jun-2020 04:54:56 UTC] PHP Fatal error:  Cannot redeclare Api::get_productby_brand() in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/application/controllers/Api.php on line 640
+[04-Jul-2020 09:41:59 UTC] PHP Fatal error:  Cannot redeclare User_model::getverifyprodID() in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/application/models/User_model.php on line 1512
+[04-Jul-2020 09:42:05 UTC] PHP Fatal error:  Cannot redeclare User_model::getverifyprodID() in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/application/models/User_model.php on line 1512
+[04-Jul-2020 09:42:07 UTC] PHP Fatal error:  Cannot redeclare User_model::getverifyprodID() in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/application/models/User_model.php on line 1512
+[21-Jul-2020 10:46:09 UTC] PHP Fatal error:  Cannot redeclare User_model::getdel_user_info() in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/application/models/User_model.php on line 2081
+[21-Jul-2020 10:46:12 UTC] PHP Fatal error:  Cannot redeclare User_model::getdel_user_info() in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/application/models/User_model.php on line 2081
+[24-Jul-2020 09:04:29 UTC] PHP Fatal error:  Cannot redeclare Logistic_model::orderdetail_split() in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/models/Logistic_model.php on line 98
+[25-Jul-2020 06:25:08 UTC] PHP Fatal error:  Cannot use [] for reading in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/controllers/Logistic_api.php on line 381
+[25-Jul-2020 07:32:43 UTC] PHP Fatal error:  Cannot redeclare Logistic_model::getorder_bypayid() in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/models/Logistic_model.php on line 113
+[25-Jul-2020 07:33:39 UTC] PHP Fatal error:  Cannot redeclare Logistic_model::getorder_bypayid() in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/models/Logistic_model.php on line 113
+[28-Jul-2020 12:03:07 UTC] PHP Fatal error:  Cannot redeclare User_model::getconfirmproductdetails() in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/models/User_model.php on line 2276
+[28-Jul-2020 12:03:09 UTC] PHP Fatal error:  Cannot redeclare User_model::getconfirmproductdetails() in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/models/User_model.php on line 2276
+[28-Jul-2020 12:05:49 UTC] PHP Fatal error:  Cannot redeclare User_model::getpaymentDetails() in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/models/User_model.php on line 2278
+[01-Aug-2020 06:53:10 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/config/routes.php on line 285
+[01-Aug-2020 06:53:15 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/config/routes.php on line 285
+[01-Aug-2020 06:53:49 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/config/routes.php on line 285
+[01-Aug-2020 06:53:51 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/config/routes.php on line 285
+[01-Aug-2020 06:53:51 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/config/routes.php on line 285
+[01-Aug-2020 06:58:55 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/config/routes.php on line 285
+[01-Aug-2020 06:58:57 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/config/routes.php on line 285
+[01-Aug-2020 07:00:09 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/config/routes.php on line 285
+[01-Aug-2020 07:00:17 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/config/routes.php on line 285
+[07-Aug-2020 05:46:38 UTC] PHP Fatal error:  Cannot redeclare User_model::categoryDetails() in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/models/User_model.php on line 2757
+[07-Aug-2020 05:46:39 UTC] PHP Fatal error:  Cannot redeclare User_model::categoryDetails() in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/models/User_model.php on line 2757
+[12-Aug-2020 05:30:00 UTC] PHP Fatal error:  Cannot redeclare Api_4::history_referer_code() in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/controllers/Api_4.php on line 1952
+[12-Aug-2020 05:31:38 UTC] PHP Fatal error:  Cannot redeclare Api_4::history_referer_code() in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/controllers/Api_4.php on line 1952
+[12-Aug-2020 05:58:54 UTC] PHP Fatal error:  Cannot redeclare Api_4::history_referer_code() in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/controllers/Api_4.php on line 1952
+[26-Aug-2020 11:45:04 UTC] PHP Fatal error:  Illegal offset type in /home/n5grqj8gbnfp/public_html/admin.aekirana.com/test/application/controllers/Api_5.php on line 2140
